@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "YOUR_REPOSITORY_URL"
+    "url": "https://github.com/libincheeran/silence-of-the-tests"
   },
   "bugs": {
-    "url": "YOUR_REPOSITORY_URL/issues"
+    "url": "https://github.com/libincheeran/silence-of-the-tests/issues"
   },
-  "homepage": "YOUR_REPOSITORY_URL#readme",
+  "homepage": "https://github.com/libincheeran/silence-of-the-tests#readme",
   "license": "MIT",
   "activationEvents": [
     "onLanguage:rust"
